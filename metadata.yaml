@@ -1,0 +1,25 @@
+_repo: Een-Reisje-door-de-Republiek-Costa-Rica--13-De-Aarde-en-haar-Volken-1907_19835
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saillard, M.
+    gutenberg_agent_id: '8913'
+    url: http://www.gutenberg.org/2009/agents/8913
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19835'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1541'
+- !lcsh 'Costa Rica -- Description and travel'
+title: "Een Reisje door de Republiek Costa-Rica\r\nDe Aarde en haar Volken, 1907"
+url: http://www.gutenberg.org/ebooks/19835
